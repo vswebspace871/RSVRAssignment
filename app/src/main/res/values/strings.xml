@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="deadpoolimg">deadpoolImg</string>
+    <string name="desc">description</string>
+    <string name="img">img</string>
+    <string name="deadpool_2">Deadpool 2</string>
+    <string name="imdb">IMDb</string>
+    <string name="action">Action</string>
+    <string name="comedy">Comedy</string>
+    <string name="science_fiction">Science Fiction</string>
+    <string name="wisecracking_mercenary_deadpool_meets_russell_an_angry_teenage_mutant_who_lives_at_an_orphanage">Wisecracking mercenary Deadpool meets Russell, an angry teenage mutant who lives at an orphanage</string>
+    <string name="post_production">POST PRODUCTION</string>
+    <string name="may_15th_2018">May 15th, 2018</string>
+    <string name="read_more">Read More</string>
+    <string name="cast">CAST</string>
+    <string name="ryan_reynolds_n_wade_wilson">Ryan Reynolds \n Wade Wilson</string>
+    <string name="ryan_reyneeolds_n_wade_wilson">Ryan Reynolds \n Wade Wilson</string>
+    <string name="similar_movies">SIMILAR MOVIES</string>
+    <string name="crew">CREW</string>
+</resources>
